@@ -2,8 +2,9 @@
 This Repository contains most undergraduate Computer Science courses from BRAC University, Dhaka, Bangladesh.
 
 It includes:
-- Lab Assignments
 - Theoretical Problems
+- Slides
 - Quizzes
-- Assignments
+- Theory Assignments
+- Lab Assignments
 - Projects
