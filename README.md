@@ -3,7 +3,7 @@ This Repository contains most undergraduate Computer Science courses from BRAC U
 
 It includes:
 - Theoretical Problems
-- Slides
+- Lecture Slides
 - Organized Notes
 - Quizzes
 - Theory Assignments
