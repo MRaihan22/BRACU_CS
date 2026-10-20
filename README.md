@@ -1,2 +1,11 @@
 # BRACU Computer Science
-This Repository contains most of the Undergraduate Computer Science Courses of BRAC University, Dhaka, Bangladesh. There are Lab Assignments, problem-solving, projects and so on altogether.
+This Repository contains most undergraduate Computer Science courses from BRAC University, Dhaka, Bangladesh.
+
+It includes:
+- Theoretical Problems
+- Lecture Slides
+- Organized Notes
+- Quizzes
+- Theory Assignments
+- Lab Assignments
+- Projects
